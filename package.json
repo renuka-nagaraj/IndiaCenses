@@ -1,0 +1,23 @@
+{
+  "name": "IndiaCenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renuka-nagaraj/IndiaCenses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renuka-nagaraj/IndiaCenses/issues"
+  },
+  "homepage": "https://github.com/renuka-nagaraj/IndiaCenses#readme"
+}

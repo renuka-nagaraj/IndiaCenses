@@ -1,0 +1,17 @@
+{
+  "name": "datamunging-boilerplate",
+  "version": "1.0.0",
+  "description": "Base boilerplate for JS projects as assignments",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "StackRoute",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
